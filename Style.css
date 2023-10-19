@@ -1,8 +1,9 @@
 body{
-    background-color: #e48303;
+    background-color: #000000;
 }
 
 h1{
-    color: #212186;
+    color: #ffffff;
     margin-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
 }
